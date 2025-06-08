@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Ethria7
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning html and css.
+- 💞️ I’m looking to collaborate on everywhere.
 - 📫 How to reach me ...
-- 😄 Pronouns: I dont't need this.
-- ⚡ Fun fact: ... that I start to learn coding.
+- 😄 Pronouns: (no)
+- ⚡ Fun fact that I started to learn coding recently.
 
 <!---
 Ethria7/Ethria7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
